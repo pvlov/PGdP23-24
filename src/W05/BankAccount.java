@@ -29,6 +29,7 @@ public class BankAccount {
             return;
         }
         this.balance = newBalance;
+
     }
 
     public String toString() {
